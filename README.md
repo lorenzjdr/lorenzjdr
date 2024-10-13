@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi I'm Lorenz !👋
+
+- 🌱 I’m currently learning a lot about Full-Stack development ! 
+- 📫 How to reach me: lorenz.jdr@gmail.com
 
 <!--
 **lorenzjdr/lorenzjdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
