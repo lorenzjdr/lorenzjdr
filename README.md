@@ -9,7 +9,7 @@
   * Databases 
 
 - 🔭 I’m currently working on:
-  *  My Personal Website
+  *  [My Personal Website](https://lorenzjdr.dev/)
   *  A Habit Tracker API
 
 - 📫 How to reach me:
