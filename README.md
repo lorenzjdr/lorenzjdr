@@ -13,7 +13,7 @@
   *  A Habit Tracker API
 
 - 📫 How to reach me:
-  * lorenz.jdr@gmail.com
+  * [Mail](mailto:lorenz.jdr@gmail.com)
   * [LinkedIn](www.linkedin.com/in/lorenzjdr)
 
 <!--
