@@ -16,7 +16,7 @@
 
 - 📫 How to reach me:
   * [Mail](mailto:lorenz.jdr@gmail.com)
-  * [LinkedIn](www.linkedin.com/in/lorenzjdr)
+  * [LinkedIn](https://www.linkedin.com/in/lorenzjdr/)
 
 <!--
 **lorenzjdr/lorenzjdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
