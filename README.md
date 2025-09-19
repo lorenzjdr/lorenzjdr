@@ -4,16 +4,13 @@
 ## About Me
 
 - 🌱 I’m currently learning:
-  * React, TypeScript
-  * Golang
-  * Databases
-  * Containerization
+  * Operating Systems
+  * Parallel Programming
 
 - 🔭 I’m currently working on:
-  *  [My Personal Website](https://lorenzjdr.dev/) 
-  *  A Golang Habit Tracker API
-  *  Danddy (Dungeons and Dragons Campaign Helper) 
-
+  *  Homework 😿
+  *  A low level web server 😈
+    
 - 📫 How to reach me:
   * [Mail](mailto:lorenz.jdr@gmail.com)
   * [LinkedIn](https://www.linkedin.com/in/lorenzjdr/)
