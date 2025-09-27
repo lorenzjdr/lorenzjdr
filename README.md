@@ -1,5 +1,5 @@
 ## Hi I'm Lorenz !👋
-  I like learning new things ! I'm also a current student attempting to make time to work on projects.
+  I like learning new things! I'm a current student attempting to make time to work on projects.
   
 ## About Me
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on:
   *  Homework 😿
-  *  A low level web server 😈
+  *  A low level web server 
     
-- 📫 How to reach me:
+- 📫 Feel free to reach out:
   * [Mail](mailto:lorenz.jdr@gmail.com)
   * [LinkedIn](https://www.linkedin.com/in/lorenzjdr/)
 
